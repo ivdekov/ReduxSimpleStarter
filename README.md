@@ -1,10 +1,10 @@
 # YoutubeSearchReactApp
 
-Completed first project from [Modern React with Redux Course on Udemy](https://www.udemy.com/react-redux/)
+Completed first project from [Modern React with Redux Course](https://www.udemy.com/react-redux/) on Udemy
 
 ###Getting Started###
 
-Open your Terminal and type the following lines:
+Open your Terminal and type the following:
 
 ```
 	> git clone https://github.com/ivdekov/YoutubeSearchReactApp
